@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13946" started-at="2016-08-12T10:32:35Z" finished-at="2016-08-12T10:32:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13946" started-at="2016-08-12T10:32:35Z" finished-at="2016-08-12T10:32:49Z">
+      <class name="WebDriverEventListeners.WebDriverEvent_Listener_exp">
+        <test-method status="PASS" signature="setup()[pri:0, instance:WebDriverEventListeners.WebDriverEvent_Listener_exp@5ae9a829]" name="setup" is-config="true" duration-ms="8317" started-at="2016-08-12T16:02:35Z" finished-at="2016-08-12T16:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:WebDriverEventListeners.WebDriverEvent_Listener_exp@5ae9a829]" name="test1" duration-ms="2181" started-at="2016-08-12T16:02:44Z" finished-at="2016-08-12T16:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:WebDriverEventListeners.WebDriverEvent_Listener_exp@5ae9a829]" name="test2" duration-ms="3388" started-at="2016-08-12T16:02:46Z" finished-at="2016-08-12T16:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:WebDriverEventListeners.WebDriverEvent_Listener_exp@5ae9a829]" name="teardown" is-config="true" duration-ms="28" started-at="2016-08-12T16:02:49Z" finished-at="2016-08-12T16:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- WebDriverEventListeners.WebDriverEvent_Listener_exp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
